@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisadek
-- 👀 I’m interested in development of all types and shapes, be it web development game development or even self-development
-- 🌱 I’m currently learning .NET with C# 
+- 👀 I’m a fullstack software developer
+- 🌱 I’m use React for frontend development and NodeJS for Backend Development 
 - 💞️ I’m looking to collaborate on a project that sparks my interest
 - 📫 You can reach me at alysadekk@gmail.com
 - Check out my portfolio at github.com/alisadek/portfolio
